@@ -21,4 +21,3 @@ elif operator =="*":
     print("result : ",num1 * num2)
 elif operator =="/":
     print("result : ",num1/num2)
-    
